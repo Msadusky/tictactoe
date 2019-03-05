@@ -1,0 +1,6 @@
+# tictactoe
+Will eventually be a tictactoe game you can't win
+
+This project is being developed using Python 3, please make sure you have Python 3 installed before running the script.
+
+This is a work in progress. The idea behind the project is to play tic tac toe against the computer and never be able to win. Tic tac toe is a game, that when played perfectly, will always end in a draw. Should either player make a mistake, the other player should win if they can identify the opportunity. My goal with this program is ensure that the computer never makes a mistake when playing against a human player. For the sake of simplicity, I'm not generating any graphics for the program, I'm using console output to create the board and using numbers to mark where each player makes their next move on the board. I chose this project to help give me some insight on AI works and what some of the challenges of programming AI are. Because there are a very limited amount of possible outcomes per turn, I won't be getting to far in over my head trying to implement this. Since it is not complete, much of the CPU logic and error checking is not done and there for it is very easy to break the game by entering a value different than what is being asked of you. This would be addressed after the core logic of the game is implemented.
